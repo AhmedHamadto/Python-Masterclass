@@ -61,12 +61,6 @@ pip install -r requirements.txt
 
 Each module contains a set of lessons and exercises. You can start with the first module by navigating to the respective directory:
 
-```bash
-cd module-1-introduction
-```
-
-Follow the instructions in the README file within each module to complete the lessons and exercises.
-
 ## Exercises
 
 The `exercises` directory contains practice problems and their solutions. These exercises are designed to test your understanding of the concepts covered in each module.
