@@ -1,0 +1,6 @@
+ERROR:root:An error occurred
+Traceback (most recent call last):
+  File "/var/folders/15/fsh3dwyd3ml7f4063fk9_60w0000gn/T/ipykernel_12143/4008500557.py", line 12, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
